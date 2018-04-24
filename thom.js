@@ -693,4 +693,4 @@ client.on('message', msg => {
 });
  
  
-client.login('process.env.THMB');
+client.login(process.env.THMB);
